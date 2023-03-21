@@ -45,7 +45,7 @@ body {
 }
 
 .text-input textarea {
-  height: 250px;
+  height: 200px;
   width: 100%;
   border: none;
   outline: none;
@@ -198,8 +198,8 @@ li,
 }
 
 .footer {
-  /* position: fixed; */
   position:absolute;
+  /* top: 800px; */
   bottom: 0;
   left: 0;
   right: 0;
@@ -231,7 +231,7 @@ li,
   }
 
   .text-input textarea {
-    height: 200px;
+    height: 175px;
   }
 
   .controls .row .icons {
@@ -265,12 +265,12 @@ li,
     width: 75px;
   }
   .text-input textarea {
-    height: 175px;
+    height: 125px;
   }
 }
 
 @media (max-height: 800px) {
   .text-input textarea {
-    height: 1750px;
+    height: 125px;
   }
 }
