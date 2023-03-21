@@ -265,12 +265,12 @@ li,
     width: 75px;
   }
   .text-input textarea {
-    height: 125px;
+    height: 150px;
   }
 }
 
 @media (max-height: 800px) {
   .text-input textarea {
-    height: 125px;
+    height: 150px;
   }
 }
